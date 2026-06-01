@@ -77,7 +77,7 @@ Design and analyze an E-Commerce database using SQL concepts including filtering
 ## Tools Used
 
 * SQL Server Management Studio (SSMS)
-* SQL
+* MySQL
 
 ---
 
